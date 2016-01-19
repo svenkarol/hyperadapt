@@ -1,7 +1,5 @@
-# hyperadapt
-Automatically exported from code.google.com/p/hyperadapt
-
 # Welcome to the HyperAdapt Toolkit #
+(Source automatically exported from code.google.com/p/hyperadapt)
 
 This page hosts the HyperAdapt toolkit developed in the HyperAdapt research project. The toolkit provides a language for adaptation rules (called adaptation aspects) in hypermedia applications and the generic PX-Weave XML weaving tool for such aspects, which can be run as a stand-alone Java application or as an additional componment in [Apache Cocoon](http://cocoon.apache.org/)-based web applications.
 
